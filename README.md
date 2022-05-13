@@ -143,9 +143,23 @@ confusion matrix <br>
 
 
 
-## we will focus on task A and task B in this project (offensive,hatespeech)
+## task B (hatespeech or not) 
+
+# BERT model on imbalanced data  F1  score = .91 on test data 
+<br>
+--model <br>
+the BERT model
+![image](https://user-images.githubusercontent.com/61325915/168399585-9d76f37a-bcc1-4812-ab3a-bf1e856e539e.png)
+
+<br>
+--data  <br>
+we used BERT model on the original dataset used BERT embedding
+![image](https://user-images.githubusercontent.com/61325915/168397418-e84f48a3-8c7c-459d-bc20-ecd84a06765a.png)
+<br>
+<br>
+--result  <br>
+the model score 0.91 for F1 score wich was the metric for the competition <br>
+![image](https://user-images.githubusercontent.com/61325915/168401982-20d3acfe-7dd5-494d-ab15-381d9d3b0ae5.png)
 
 
 
-we used GRU to detect the offensive tweets we apllied the GRU on the data where it imbalanced and after we 
-  
