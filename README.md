@@ -28,11 +28,13 @@ we used GRU model on the original dataset wich was imbalanced data with our word
 ![image](https://user-images.githubusercontent.com/61325915/168397418-e84f48a3-8c7c-459d-bc20-ecd84a06765a.png)
 <br>
 --result  <br>
-the model score 0.69 for F1 score wich was the metric for the competition
+the model score 0.69 for F1 score wich was the metric for the competition <br>
+classification report
 <br>![image](https://user-images.githubusercontent.com/61325915/168398264-b6b0dd73-9564-446c-9168-f062a3a08a52.png)
 
 <br>
-![image](https://user-images.githubusercontent.com/61325915/168398301-b8e349c4-f653-413b-b80f-fce08069865c.png)
+confusion matrix <br>
+![Capture](https://user-images.githubusercontent.com/61325915/168398656-979a35d3-d94a-4b05-b9e4-bec23a9d5b94.PNG)
 
 
 
