@@ -2,6 +2,10 @@
 detect tweets that have offensive and hatespeech 
 
 
+<br>
+## Link dataset: https://alt.qcri.org/resources/OSACT2022/OSACT2022-sharedTask-train.txt
+<br>
+
 ## preprocessing
   -deal with nulls
   -deal with categorical data like(NOT_OFF, OFF, NOT_HS,HS6, HS1, HS3, HS5, HS2, NOT_VLG,VL NOT_VIO,VIO) <br>
