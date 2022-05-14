@@ -5,8 +5,9 @@ detect tweets that have offensive and hatespeech
 <br>
 
 # Link dataset: 
-https://alt.qcri.org/resources/OSACT2022/OSACT2022-sharedTask-train.txt
-
+train : https://alt.qcri.org/resources/OSACT2022/OSACT2022-sharedTask-train.txt
+<br>
+test  :  https://alt.qcri.org/resources/OSACT2022/OSACT2022-sharedTask-dev.txt 
 <br>
 
 ## preprocessing
