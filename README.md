@@ -3,7 +3,10 @@ detect tweets that have offensive and hatespeech
 
 
 <br>
-## Link dataset: https://alt.qcri.org/resources/OSACT2022/OSACT2022-sharedTask-train.txt
+
+# Link dataset: 
+https://alt.qcri.org/resources/OSACT2022/OSACT2022-sharedTask-train.txt
+
 <br>
 
 ## preprocessing
@@ -18,7 +21,8 @@ detect tweets that have offensive and hatespeech
 
 
 <br>
-## task A (offensive orr not) poor accuracy cause of small very noisy data
+
+## *task A (offensive orr not) poor accuracy cause of small very noisy data.
 
 # GRU model on imbalanced data   F1 score =0.69
 <br>
